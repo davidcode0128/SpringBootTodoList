@@ -8,7 +8,7 @@
 ## 做了什麼
 
 1. 使用MySQL作為資料庫，並使用JPA作為查詢語言，實現基本的CRUD功能。
-2. 使用JUnit5+Mockito實作單元測試，使用Junit5+MockMvc實作整合測試。
+2. 使用JUnit5實作單元測試。
 
 ## 環境
 + 作業系統 ： Linux Ubuntu 20.04
